@@ -4,17 +4,19 @@ School app for computer science club
 
 // Sections
 1) Design
-Team: Elijah
+Team: Elijah,
       Josh
 2) Database programming
 Team:
-      Malcolm
+      Malcolm,
       Ali
 3) Front end programming
 Team:
-      Josh
-      Liam
+      Josh,
+      Liam,
+      Christian
 4) Back end programming
 Team:
-      Liam
-      Malcolm
+      Liam,
+      Malcolm,
+      Christian
